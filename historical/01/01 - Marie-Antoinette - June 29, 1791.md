@@ -7,7 +7,11 @@ But what did this letter contain?
 
 # Letter
 
-7 juil 1791           ce 29 juin
+Here is the [letter](src/message.txt):
+
+---
+
+4 juil 1791           ce 29 juin
 ```
 fesietsmqnpianfipestseftuoercofskdmra
 rnusjxiit&irqeistgexegopsutausjivmug
@@ -28,6 +32,7 @@ pnugvrueeorer&meixrneidknflamrnze
 ienegmam&euhsrxegopsfdfrsreufqpaba
 popt
 ```
+---
 
 
 # Decoding table
@@ -126,10 +131,8 @@ Ne m'écrivez pas, ce serait nous exposer, et surtout ne revenez pas ici sous au
 On sait que c'est vous qui nous avez sorti d'ici ; tout serait perdu si vous paraissiez.
 Nous sommes gardés à vue jour et nuit, cela m'est égal, vous n'êtes pas ici.
 Soyez tranquille, il ne m'arrivera rien.
-L'Assemblée veut nous traiter avec douceur.
-Adieu le plus aimé des hommes.
-Calmez-vous si vous pouvez.
-Menagez-vous pour moi.
+L'Assemblée veut nous traiter avec douceur. Adieu le plus aimé des hommes.
+Calmez-vous si vous pouvez. Menagez-vous pour moi.
 Je ne pourrai plus vous écrire mais rien dans le monde ne peut m'empêcher de vous adorer jusqu'à la mort.
 ```
 
@@ -142,9 +145,7 @@ Do not write to me; it would expose us, and above all, do not return here under 
 It is known that it was you who got us out of here; all would be lost if you were to appear.
 We are under constant surveillance day and night, but I don't care; you are not here.
 Be at ease, nothing will happen to me.
-The Assembly wishes to treat us gently.
-Farewell, most beloved of men.
-Calm yourself if you can.
-Take care of yourself for my sake.
+The Assembly wishes to treat us gently. Farewell, most beloved of men.
+Calm yourself if you can. Take care of yourself for my sake.
 I will no longer be able to write to you, but nothing in the world can prevent me from adoring you until death.
 ```
