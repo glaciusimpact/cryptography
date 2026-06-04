@@ -130,9 +130,8 @@ Le ciel permettra que celle-ci vous arrive.
 Ne m'écrivez pas, ce serait nous exposer, et surtout ne revenez pas ici sous aucun pretexte.
 On sait que c'est vous qui nous avez sorti d'ici ; tout serait perdu si vous paraissiez.
 Nous sommes gardés à vue jour et nuit, cela m'est égal, vous n'êtes pas ici.
-Soyez tranquille, il ne m'arrivera rien.
-L'Assemblée veut nous traiter avec douceur. Adieu le plus aimé des hommes.
-Calmez-vous si vous pouvez. Menagez-vous pour moi.
+Soyez tranquille, il ne m'arrivera rien. L'Assemblée veut nous traiter avec douceur.
+Adieu le plus aimé des hommes. Calmez-vous si vous pouvez. Menagez-vous pour moi.
 Je ne pourrai plus vous écrire mais rien dans le monde ne peut m'empêcher de vous adorer jusqu'à la mort.
 ```
 
@@ -144,8 +143,7 @@ Heaven will allow this to reach you.
 Do not write to me; it would expose us, and above all, do not return here under any pretext.
 It is known that it was you who got us out of here; all would be lost if you were to appear.
 We are under constant surveillance day and night, but I don't care; you are not here.
-Be at ease, nothing will happen to me.
-The Assembly wishes to treat us gently. Farewell, most beloved of men.
-Calm yourself if you can. Take care of yourself for my sake.
+Be at ease, nothing will happen to me. The Assembly wishes to treat us gently.
+Farewell, most beloved of men. Calm yourself if you can. Take care of yourself for my sake.
 I will no longer be able to write to you, but nothing in the world can prevent me from adoring you until death.
 ```
